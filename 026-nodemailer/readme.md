@@ -108,6 +108,9 @@ Create a new file `email.js` and set up the Nodemailer transporter with OAuth2:
 require('dotenv').config();
 const nodemailer = require('nodemailer');
 
+//for communicating to the SMTP server for sending a mail , we are creating a transporter
+
+
 const transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
