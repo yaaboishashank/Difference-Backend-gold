@@ -16,10 +16,11 @@ This guide provides step-by-step instructions for setting up and using Nodemaile
 
 2. **Enable Gmail API:**
    - Go to the **Library** section.
-   - go to OAuth Consent Screen : 1 - Get Startted , 2 -  Email , 3 - audience -External , 4 - email , next then create
    - Search for **Gmail API** and enable it.
 
 3. **Create OAuth2 Credentials:**
+   - go to OAuth Consent Screen : 1 - Get Startted , 2 -  Email , 3 - audience -External , 4 - email , next then create
+   - Go to API services
    - Go to the **Credentials** section.
    - Click on **Create Credentials** and choose **OAuth 2.0 Client IDs**.
    - Set the application type to **Web application**.
