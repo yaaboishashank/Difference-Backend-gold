@@ -2,6 +2,15 @@
 
 This guide provides step-by-step instructions for setting up and using Nodemailer in a Node.js application with OAuth2 authentication using `ClientID` and `ClientSecret`, along with generating a refresh token using the OAuth 2.0 Playground.
 
+you have to find the for keys: 
+
+
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+GOOGLE_REFRESH_TOKEN=
+GOOGLE_USER=
+
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) installed on your machine.
