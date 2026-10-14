@@ -36,6 +36,8 @@ This guide provides step-by-step instructions for setting up and using Nodemaile
    - In the top-right corner, click on the gear icon (settings).
    - Under **OAuth 2.0 endpoints**, select `Use your own OAuth credentials`.
    - Enter your `ClientID` and `ClientSecret` obtained from the Google Cloud Console.
+   - serch Gmail API v1 , select then AUTHORIZE , then you face a eroor ,
+   - go to the console , select the poject , go to the credencials , click on  WEB CLIENT , then go the AUDIONS section in side bar , add the test user , 
    - Set the **Access type** to `Offline` to obtain a refresh token.
 
 3. **Select Scopes:**
